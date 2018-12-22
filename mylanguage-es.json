@@ -1,0 +1,44 @@
+{
+    "menu": {
+        "home": "Casa",
+        "about": "Acerca de",
+        "contact": "Contacto",
+        "book": "Reservar un vuelo6",
+        "mybook": "Mis reservas",
+        "bookflights":"Reservar un vuelo",
+        "reservations":"Reservas"
+
+
+    },
+    "content": "Esto es contenido en la página web",
+    "book2": "Reservar un vuelo6",
+    "super": "Super Confort para Todos",
+    "kicking": "Relájese en un asiento de primera clase, con el champán en la mano, es la materia de los sueños de los viajeros. Es ese boleto de la lista de deseos, único en la vida, que siempre está fuera de nuestro alcance. Pero, ¿por qué debería reservarse ese nivel de lujo para los ultra ricos? Nuestros servicios proporcionan todo el confort para satisfacer sus necesidades.",
+    "greater": "Gran Ciudad De Accra",
+    "greater2": "La región de Gran Accra, la puerta de entrada a Ghana y el hogar de nuestra vibrante ciudad capital, es una de las regiones más fascinantes y distintivas. Aunque es la región más pequeña, es la más densamente poblada, ya que contiene las dos grandes áreas metropolitanas de Accra y Tema, los principales centros industriales y comerciales del país. El aeropuerto internacional de Kotoka se encuentra a unos 12 km del centro de la ciudad.",
+    "you": "Te Mereces Esas Vacaciones",
+    "the": "La temporada para todos los que desaparecen durante 2 semanas en algún lugar caluroso y lujoso está sobre nosotros, pero ¿es usted una de esas personas que decide que está demasiado ocupado para pasar unas vacaciones? A veces, tomarse un tiempo libre en el trabajo puede ser desalentador. ¿Cuánto trabajo se acumulará mientras estás fuera? ¿Qué tareas te vas a perder? ¿Realmente vale la pena tomarse unas vacaciones? ¡La respuesta es sí!",
+    "book3": "Reservar un vuelo6",
+    "copyright": "Derechos de autor",
+    "meet": "CONOZCA A NUESTRO EQUIPO",
+    "we": "Todos somos muy diferentes. Nacimos en diferentes ciudades, en diferentes momentos, amamos diferentes músicas, comidas, películas. Pero tenemos algo que nos une a todos. Es nuestra empresa. Somos su corazón. No somos solo un equipo, somos una familia.",
+    "contactus": "CONTÁCTENOS",
+    "get":"Póngase en contacto con nosotros:",
+    "find":"Encuéntranos:",
+    "drop": "Envíenos un mensaje:",
+    "your": "Tu Mensaje:",
+    "send": "Enviar",
+    "search": "Busqueda de vuelos",
+    "oneway": "Una manera",
+    "round": "Ida y vuelta",
+    "dep": "Aeropuerto de salida",
+    "arr": "Aeropuerto de llegada",
+    "depdate": "Fecha de salida",
+    "arrdate": "Fecha de llegada",
+    "no": "Numero de pasajeros",
+    "class": "Clase",
+    "search2": "Buscar",
+    "missio": "esp",
+    "logout": "Cerrar sesión"
+
+}

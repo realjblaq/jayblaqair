@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Page Translator</title>
+    <link href="foundation/css/foundation.css" rel="stylesheet"/>
+</head>
+<body>
+    <select id="list">
+      <option>Spain</option>
+      <option>French</option>
+    </select>
+    <div class="w3-container w3-amber w3-padding-64">
+        <h1 data-localize="title" class="w3-center">This Is Title Web Page</h1>
+    </div>
+    <div class="">
+      <div data-localize="menu.home" class="w3-bar-item">Home</div>
+      <div data-localize="menu.article" class="w3-bar-item">Article</div>
+      <div data-localize="menu.doc" class="w3-bar-item">Documentation</div>
+      <div data-localize="menu.download" class="w3-bar-item">Download</div>
+      <div data-localize="menu.upload" class="w3-bar-item">Upload</div>
+      <div data-localize="menu.account" class="w3-bar-item">Account</div>
+      <div data-localize="menu.book" class="w3-bar-item">Book</div>
+      <div data-localize="menu.about" class="w3-bar-item">About</div>
+      <div data-localize="menu.help" class="w3-bar-item">Help</div>
+    </div>
+    <div class="container">
+        <p data-localize="content">This is content in web page</p>
+    </div>
+    
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.localize.min.js"></script>
+    <script>
+
+      $('#list').change(function() {
+          if ($(this).val() === 'Spain') {
+            $("[data-localize]").localize("mylanguage", { language: "es" });
+          }
+          if ($(this).val() === 'French') {
+            $("[data-localize]").localize("mylanguage", { language: "fr" });
+          }
+      });
+    </script>
+</body>
+</html>

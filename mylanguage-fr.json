@@ -1,0 +1,41 @@
+{
+    "menu": {
+        "home": "Accueil",
+        "about": "Sur",
+        "contact": "Contactez",
+        "book": "Réserver un Vol",
+        "mybook":"Mes réservations",
+        "bookflights":"Reservar un vuelo",
+        "reservations":"Réserver un vol"
+ 
+    },
+    "book2": "Réserver un Vol",
+    "super": "Super Confort Pour Tous",
+    "kicking": "Se détendre dans un siège de première classe, le champagne à la main, fait rêver les voyageurs. C’est ce ticket unique qui est toujours hors de portée. Mais pourquoi ce niveau de luxe devrait-il être réservé aux ultra-riches? Nos services vous apportent tout le confort nécessaire.",
+    "greater": "La Grande Ville D'Accra",
+    "greater2": "La région du Grand Accra, porte d'entrée du Ghana et siège de notre capitale dynamique, est l'une des régions les plus passionnantes et distinctives. Bien que ce soit la plus petite région, c’est la plus densément peuplée, elle comprend les deux grandes régions métropolitaines d’Accra et de Tema, les principaux centres industriels et commerciaux du pays. L'aéroport international de Kotoka est situé à environ 12 km du centre de la ville.",
+    "you": "Vous Méritez Ces Vacances",
+    "the": "La saison pour tous ceux qui disparaissent pendant deux semaines dans un endroit chaud et luxueux est à nos portes, mais êtes-vous de ceux qui jugent que vous êtes trop occupé pour des vacances? Prendre congé du travail peut parfois sembler décourageant. Combien de travail va s'accumuler pendant votre absence? Quelles tâches allez-vous manquer? Vaut-il vraiment la peine de prendre des vacances? La réponse est oui!",
+    "book3": "Réserver un Vol",
+    "copyright": "Croits D'auteur",
+    "meet": "RENCONTREZ NOTRE ÉQUIPE",
+    "we": "Nous sommes tous très différents. Nous sommes nés dans différentes villes, à différentes époques, nous aimons la musique, la nourriture, les films. Mais nous avons quelque chose qui nous unit tous. C'est notre compagnie. Nous sommes son coeur. Nous ne sommes pas qu'une équipe, nous sommes une famille.",
+    "contactus": "CONTACTEZ NOUS",
+    "get":"Prenez contact avec nous:",
+    "find":"Trouve nous:",
+    "drop": "Laissez nous un message:",
+    "your": "Votre Message",
+    "send": "Envoyer",
+    "search": "Recherche de vols",
+    "oneway": "Une manière",
+    "round": "Aller-retour",
+    "dep": "Aéroport de départ",
+    "arr": "Aéroport d'arrivée",
+    "depdate": "Date de départ",
+    "arrdate": "Date d'arrivée",
+    "no": "Nombre de passagers",
+    "class": "Classe",
+    "search2": "Chercher",
+    "missio": "fre"
+
+}

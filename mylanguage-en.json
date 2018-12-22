@@ -1,0 +1,42 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "book": "Book a Flight",
+        "mybook":"My Bookings",
+        "bookflights":"Book Flight",
+        "reservations": "Reservations"
+
+    },
+    "book2": "Book a Flight",
+    "super": "Super Comfort for All",
+    "kicking": "Kicking back in a First-Class seat, champagne in hand, is the stuff of traveller dreams. It’s that once-in-a-lifetime, bucket-list ticket that’s always just out of reach. But why should that level of luxury be reserved for the ultra-wealthy? Our services provide all with comfort to suit your need.",
+    "greater": "Greater Accra City",
+    "greater2": "Greater Accra Region, the gateway to Ghana and home of our vibrant capital city, is one of the most exciting and distinctive regions. Although the smallest region, it is the most densely populated, containing the two great metropolitan areas of Accra and Tema, the country's major industrial and commercial centres. Kotoka International Airport is located about 12km from the centre of the city.",
+    "you": "You Deserve That Holiday",
+    "the": "The season for everyone disappearing for 2 weeks somewhere hot and luxurious is upon us, but are you one of those people who decides you are too busy for a holiday?  Sometimes taking time off work can feel daunting. How much work will pile up while you’re away? What tasks are you going to miss?  Is it really worth taking a holiday? The answer is, yes!",
+    "book3": "Book a Flight",
+    "copyright": "Copyright",
+    "meet": "MEET OUR TEAM",
+    "we": "We are all very different. We were born in different cities, at different times, we love different music, food, movies. But we have something that unites us all. It is our company. We are its heart. We are not just a team, we are a family.",
+    "contactus": "CONTACT US",
+    "get":"Get in touch with us:",
+    "find":"Find us:",
+    "drop": "Drop us a message:",
+    "your": "Your Message",
+    "send": "Send",
+    "search": "Search Flights",
+    "oneway": "One Way",
+    "round": "Round Trip",
+    "dep": "Departure airport",
+    "arr": "Arrival airport",
+    "depdate": "Departing date",
+    "arrdate": "Arriving date",
+    "no": "Number of passengers",
+    "class": "Class",
+    "search2": "Search",
+    "missio": "eng",
+    "logout":"Logout"
+
+}
